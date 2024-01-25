@@ -1,6 +1,6 @@
 # Library Management System
 
-The Library Management System is a console-based application written in C# that allows users to manage a library catalog. Users can perform various operations such as adding books, viewing the catalog, searching for books, borrowing, and returning books.
+The Library Management System is a console-based application written in C# that allows users to manage a library catalog. Users can perform various functions such as adding books, viewing the catalog, searching for books, borrowing, and returning books.
 
 ## Features
 
